@@ -10,10 +10,10 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 3. [Acompanhamento de Vendas](#projeto-03)
 4. [Acompanhamento de Projetos](#projeto-04)
 5. [Gestão e Acompanhamento de Obras](#projeto-05)
-6. [Acompanhamento de Vendas](#projeto-06)
+6. [Acompanhamento de Vendas: Visão por Produtos](#projeto-06)
 7. [Gestão de Lojas](#projeto-07)
-8. [Sales Analytics](#projeto-08)
-9. [Acompanhamento de Acidentes Rodoviários](#projeto-09)
+8. [Análise de Faturamento, Vendedores e Clientes](#projeto-08)
+9. [Relatório de Acidentes em Rodovias Federais](#projeto-09)
 10. [Análise de Atendimentos de Emergência](#projeto-10)
 11. [Análise de Vendas](#projeto-11)
 12. [Análise de Performance NBA](#projeto-12)
@@ -24,13 +24,13 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 17. [Acompanhamento de Compras](#projeto-17)
 18. [Acompanhamento de Compras](#projeto-18)
 19. [Acompanhamento de Vendas](#projeto-19)
-20. [Acompanhamento de Vendas](#projeto-20)
+20. [Acompanhamento de Vendas: Franquia de Lojas](#projeto-20)
 21. [Acompanhamento de Inspeções](#projeto-21)
 22. [Acompanhamento Financeiro](#projeto-22)
 23. [Acompanhamento de Atendimento](#projeto-23)
 24. [Acompanhamento de Atendimento Hospitalares](#projeto-24)
 25. [Relatório - Pesquisa de Satisfação dos Colaboradores](#projeto-25)
-26. [Mapeamento dos Colaboradores da Empowerdata](#projeto-26)
+26. [People Analytics: Mapeamento de Colaboradores](#projeto-26)
 
 ---
 
@@ -86,7 +86,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Acompanhamento de Vendas <a name="projeto-06"></a>
+### Acompanhamento de Vendas: Visão por Produtos <a name="projeto-06"></a>
 
 ![Acompanhamento de Vendas](images/screen_clipping/acomp_de_vendas4.png)
 
@@ -106,7 +106,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Sales Analytics <a name="projeto-08"></a>
+### Análise de Faturamento, Vendedores e Clientes <a name="projeto-08"></a>
 
 ![Sales Analytics](images/screen_clipping/analise_vendas1_p3.png)
 
@@ -116,7 +116,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Acompanhamento de Acidentes Rodoviários <a name="projeto-09"></a>
+### Relatório de Acidentes em Rodovias Federais <a name="projeto-09"></a>
 
 ![Acompanhamento de Acidentes Rodoviários](images/screen_clipping/acidentes_rodoviarios2.png)
 
@@ -226,7 +226,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Acompanhamento de Vendas <a name="projeto-20"></a>
+### Acompanhamento de Vendas: Franquia de Lojas <a name="projeto-20"></a>
 
 ![Acompanhamento de Vendas](images/screen_clipping/acomp_de_vendas2.png)
 
@@ -288,7 +288,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ### Mapeamento dos Colaboradores da Empowerdata <a name="projeto-26"></a>
 
-![Mapeamento dos Colaboradores da Empowerdatas](images/screen_clipping/people_analytics1.png)
+![People Analytics: Mapeamento de Colaboradores](images/screen_clipping/people_analytics1.png)
 
 **[Projeto 26 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDg0Y2Y4NTAtMjFjNC00MDZjLTk3YzYtMTA4NTY5Yzg1NzY2IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 11/03/2024**
 
