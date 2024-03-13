@@ -286,9 +286,9 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Mapeamento dos Colaboradores da Empowerdata <a name="projeto-26"></a>
+### People Analytics: Mapeamento de Colaboradores <a name="projeto-26"></a>
 
-![People Analytics: Mapeamento de Colaboradores](images/screen_clipping/people_analytics1.png)
+![People Analytics](images/screen_clipping/people_analytics1.png)
 
 **[Projeto 26 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDg0Y2Y4NTAtMjFjNC00MDZjLTk3YzYtMTA4NTY5Yzg1NzY2IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 11/03/2024**
 
