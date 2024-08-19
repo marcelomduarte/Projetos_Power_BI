@@ -70,7 +70,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ![Acompanhamento de Projetos](images/screen_clipping/acomp_de_projetos1.png)
 
-**[Projeto 04 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWU0NTU2YjktY2IzOC00MThmLTk3YjYtYWMyZjBjOTk2MmQ5IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
+**[Projeto 04 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDA0NDA3ZmEtNGNhOC00MmQ3LTkwMzktZTJkOWU3YzkxYWI5IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
 
 [Índice ↑](#indice)
 
