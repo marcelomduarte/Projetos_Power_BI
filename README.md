@@ -56,11 +56,11 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Acompanhamento de Vendas <a name="projeto-03"></a>
+### Acompanhamento de metas e Visão Geral de Vendas<a name="projeto-03"></a>
 
 ![Acompanhamento de Vendas](images/screen_clipping/acomp_de_vendas5_p2.png)
 
-**[Projeto 03 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWVjOTE1NTMtZmExZS00ZDVjLTkzZTMtOGI0NGQyMjY2YzM4IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
+**[Projeto 03 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjEwZmFmNzUtM2U2OS00MjY0LTg3ZWQtYzMzNTQ0ZTE1OTAxIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
 
 [Índice ↑](#indice)
 
