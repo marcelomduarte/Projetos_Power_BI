@@ -7,7 +7,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 1. [Acompanhamento Financeiro - Demonstração do Resultado do Exercício (DRE)](#projeto-01)
 2. [Acompanhamento de Vendas](#projeto-02)
-3. [Acompanhamento de Vendas](#projeto-03)
+3. [Acompanhamento de Metas e Visão Geral de Vendas](#projeto-03)
 4. [Acompanhamento de Projetos](#projeto-04)
 5. [Gestão e Acompanhamento de Obras](#projeto-05)
 6. [Acompanhamento de Vendas: Visão por Produtos](#projeto-06)
@@ -56,7 +56,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Acompanhamento de metas e Visão Geral de Vendas<a name="projeto-03"></a>
+### Acompanhamento de Metas e Visão Geral de Vendas<a name="projeto-03"></a>
 
 ![Acompanhamento de Vendas](images/screen_clipping/acomp_de_vendas5_p2.png)
 
