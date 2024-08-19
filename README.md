@@ -80,7 +80,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ![Gestão e Acompanhamento de Obras](images/screen_clipping/gestao_de_obras1.png)
 
-**[Projeto 05 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDU3YTlhNjMtNGJmNC00OGVjLThlYjUtNmYwMTE3YWY1NzdiIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
+**[Projeto 05 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDc5MWNhY2YtOWE5OC00NzNkLWFmYWQtMWQ4ZTRmZDMyMjFmIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
 
 [Índice ↑](#indice)
 
