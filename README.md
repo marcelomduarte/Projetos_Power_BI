@@ -86,11 +86,13 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ---
 
-### Acompanhamento de Vendas: Visão por Produtos <a name="projeto-06"></a>
+### Acompanhamento de Vendas<a name="projeto-06"></a>
 
-![Acompanhamento de Vendas](images/screen_clipping/acomp_de_vendas4.png)
+![Acompanhamento de Vendas](images/screen_clipping/sales_analytics_03_v2.0_pag01.png)
 
-**[Projeto 06 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWI1ZjY1ZmItNGZmYS00ZjgxLWE2MTQtMzkzMjY5OGFjOGM1IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
+![Acompanhamento de Vendas](images/screen_clipping/sales_analytics_03_v2.0_pag02.png)
+
+**[Projeto 06 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWUwMmI5NjMtNzg4Yy00M2I5LWE1ODYtNGI3MjdjNDUzZjU5IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
 
 [Índice ↑](#indice)
 
