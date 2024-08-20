@@ -114,13 +114,13 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ### Análise de Faturamento, Vendedores e Clientes <a name="projeto-08"></a>
 
-![Sales Analytics](images/screen_clipping/sales_analytics_05_1.0_pag01.png)
+![Sales Analytics](images/screen_clipping/sales_analytics_05_v1.0_pag01.png)
 
-![Sales Analytics](images/screen_clipping/sales_analytics_05_1.0_pag02.png)
+![Sales Analytics](images/screen_clipping/sales_analytics_05_v1.0_pag02.png)
 
-![Sales Analytics](images/screen_clipping/sales_analytics_05_1.0_pag03.png)
+![Sales Analytics](images/screen_clipping/sales_analytics_05_v1.0_pag03.png)
 
-**[Projeto 08 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWRiYTg3YjgtMGU0NS00ODFiLWE5OTMtMjdkMWJiNjM2MGNjIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
+**[Projeto 08 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiODkzMjNkZjctMzYyZC00MTdiLWIzYjEtYjIyODJkYmE4ZGQ0IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 09/03/2024**
 
 [Índice ↑](#indice)
 
