@@ -10,7 +10,7 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 3. [Acompanhamento de Metas e Visão Geral de Vendas](#projeto-03)
 4. [Acompanhamento de Projetos](#projeto-04)
 5. [Gestão e Acompanhamento de Obras](#projeto-05)
-6. [Acompanhamento de Vendas: Visão por Produtos](#projeto-06)
+6. [Acompanhamento de Vendas](#projeto-06)
 7. [Gestão de Lojas](#projeto-07)
 8. [Análise de Faturamento, Vendedores e Clientes](#projeto-08)
 9. [Relatório de Acidentes em Rodovias Federais](#projeto-09)
