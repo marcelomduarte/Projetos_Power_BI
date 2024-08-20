@@ -148,7 +148,9 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ### Análise de Vendas <a name="projeto-11"></a>
 
-![Análise de Vendas](images/screen_clipping/analise_vendas2.png)
+![Análise de Vendas](images/screen_clipping/sales_analytics_04_v1.0_pag01.png)
+
+![Análise de Vendas](images/screen_clipping/sales_analytics_04_v1.0_pag01_cel.png)
 
 **[Projeto 11 - Link](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi) | Atualizado: 09/03/2024**
 
