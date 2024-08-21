@@ -210,9 +210,17 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ### Acompanhamento de Compras <a name="projeto-17"></a>
 
-![Acompanhamento de Compras](images/screen_clipping/acomp_de_compras2_dark.png)
+![Acompanhamento de Compras](images/screen_clipping/supply_chain_management_01_light_v1.0_pag01.png)
 
-**[Projeto 17 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjAxYWFiYTAtNTVhZC00ZjcyLTg5NmYtZDE2MmQ0NGYzNjc0IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 10/03/2024**
+![Acompanhamento de Compras](images/screen_clipping/supply_chain_management_01_dark_v1.0_pag01.png)
+
+![Acompanhamento de Compras](images/screen_clipping/supply_chain_management_01_light_v2.0_pag01.png)
+
+![Acompanhamento de Compras](images/screen_clipping/supply_chain_management_01_dark_v2.0_pag01.png)
+
+**[Projeto 17 - Power BI - v1.0](https://app.powerbi.com/view?r=eyJrIjoiNmYyZTUzMTktOTM4YS00ZjVkLTllMTQtZDZmYmRlZTU2NDU4IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 10/03/2024**
+
+**[Projeto 17 - Power BI - v2.0](https://app.powerbi.com/view?r=eyJrIjoiYzc1OTE2YjItMDY5OS00NmNjLWFhYzctZmFkZmVlMzk1ODQzIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 10/03/2024**
 
 [Índice ↑](#indice)
 
