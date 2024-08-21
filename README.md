@@ -30,7 +30,6 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 23. [Acompanhamento de Atendimento](#projeto-23)
 24. [Acompanhamento de Atendimento Hospitalares](#projeto-24)
 25. [Relatório - Pesquisa de Satisfação dos Colaboradores](#projeto-25)
-26. [People Analytics: Mapeamento de Colaboradores](#projeto-26)
 
 ---
 
@@ -303,15 +302,5 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 ![Pesquisa de Satisfação dos Colaboradores](images/screen_clipping/rh1.png)
 
 **[Projeto 25 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmZlN2RlN2QtZmJmZC00YjFlLTgxNjMtZDM5ZGQ1OTgwNTViIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 11/03/2024**
-
-[Índice ↑](#indice)
-
----
-
-### People Analytics: Mapeamento de Colaboradores <a name="projeto-26"></a>
-
-![People Analytics](images/screen_clipping/people_analytics1.png)
-
-**[Projeto 26 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDg0Y2Y4NTAtMjFjNC00MDZjLTk3YzYtMTA4NTY5Yzg1NzY2IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 11/03/2024**
 
 [Índice ↑](#indice)
