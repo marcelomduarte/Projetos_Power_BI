@@ -29,7 +29,6 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 22. [Acompanhamento Financeiro](#projeto-22)
 23. [Acompanhamento de Atendimento](#projeto-23)
 24. [Acompanhamento de Atendimento Hospitalares](#projeto-24)
-25. [Relatório - Pesquisa de Satisfação dos Colaboradores](#projeto-25)
 
 ---
 
@@ -292,15 +291,5 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 ![Acompanhamento de Atendimento Hospitalareso](images/screen_clipping/atend_hospitalar1.png)
 
 **[Projeto 24 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTVhMjRmMDQtYTY1YS00ZTk3LTg1MmMtY2FiMzZkZWQ5MTFjIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 11/03/2024**
-
-[Índice ↑](#indice)
-
----
-
-### Relatório - Pesquisa de Satisfação dos Colaboradores <a name="projeto-25"></a>
-
-![Pesquisa de Satisfação dos Colaboradores](images/screen_clipping/rh1.png)
-
-**[Projeto 25 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmZlN2RlN2QtZmJmZC00YjFlLTgxNjMtZDM5ZGQ1OTgwNTViIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 11/03/2024**
 
 [Índice ↑](#indice)
