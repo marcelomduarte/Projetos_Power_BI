@@ -158,9 +158,11 @@ Este repositório é dedicado a projetos de análise de dados com o Power BI. O 
 
 ### Análise de Performance NBA <a name="projeto-12"></a>
 
-![Análise de Performance NBA](images/screen_clipping/analise_de_performance_nba1_p2.png)
+![NBA](images/screen_clipping/sport_nba_01_v1.0_pag01.png)
 
-**[Projeto 12 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2Q1NjUxNDAtNGM4OS00YmMwLThmMzAtMDcxMTU1MTRmYjZlIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Em Atualização...**
+![NBA](images/screen_clipping/sport_nba_01_v1.0_pag02.png)
+
+**[Projeto 12 - Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGFmZGZmZjMtNDI0Ni00ODUwLWFkZTYtYjM4NDRhOTg2M2VlIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9) | Atualizado: 22/08/2024**
 
 [Índice ↑](#indice)
 
